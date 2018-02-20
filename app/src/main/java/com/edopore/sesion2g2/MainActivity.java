@@ -51,7 +51,7 @@ public class MainActivity extends AppCompatActivity {
             //code
         }
     }
-
+    //metodo para los checkbox
     public void onCheckboxclicked(View view) {
         int id = view.getId();
 
